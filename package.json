@@ -30,5 +30,13 @@
   },
   "directories": {
     "lib": "lib"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gouqingping/env-configuration-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gouqingping/env-configuration-plugin/issues"
+  },
+  "homepage": "https://github.com/gouqingping/env-configuration-plugin#README"
 }
